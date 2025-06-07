@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Note Taking App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="container">
+      <div id="add_note_section">
+        <div id="add_button">
+          <img src="pencil2.png" alt="" />
+          <p id="compose">compose</p>
+        </div>
+      </div>
+      <div id="show_note_section">
+        <!-- <div class="note_box">
+          <p class="note_name">No_Name-1</p>
+          <p class="note_content">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Est aut
+            vitae ullam earum, eos fugit illo delectus laudantium, tempore
+            incidunt numquam qui
+          </p>
+          <div class="edit_delete_section">
+            <input type="button" value="update" class="update_task_button" />
+            <img src="pencil2.png" alt="" class="edit_button" />
+            <img src="trash.webp" alt="" class="task_delete_button" />
+          </div>
+        </div> -->
+      </div>
+    </div>
+
+    <div id="write_task_box">
+      <input type="text" id="title_box" placeholder="Title here" />
+      <textarea id="write_task" placeholder="Content here"></textarea>
+
+      <div class="button_section">
+        <img src="trash.webp" alt="Delete" id="delete_button" />
+        <input type="button" value="Save" id="save_button" />
+        <input type="button" value="update" id="update_button" />
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

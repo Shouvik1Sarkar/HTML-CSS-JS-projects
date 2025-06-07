@@ -1,0 +1,15 @@
+.task_row {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.task {
+  margin-inline: 30px;
+}
+
+input[type="checkbox"],
+input[type="button"],
+input[type="ipnut"],
+button {
+  cursor: pointer;
+}
