@@ -6,18 +6,22 @@
 
 ### all the buttons/ features working (delete edit, check box etc.)
 
-# Version - 2 [PENDING]
+# Version - 2 [DONE]
 
 ### Local Storage
 
 # Version - 3 [PENDING]
 
-### drag and drop
+### IMPROVE CODE ADD ARRAYS/ OBJECTS
 
 # Version - 4 [PENDING]
 
-### Styling and CSS
+### drag and drop
 
 # Version - 5 [PENDING]
+
+### Styling and CSS
+
+# Version - 6 [PENDING]
 
 ### Full Stack (adding backend)
